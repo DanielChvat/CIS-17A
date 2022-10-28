@@ -1,0 +1,11 @@
+Changes:
+-Removed option for player to see extra info about the game (Will be added back later just removed temporarily)
+-Converted some functions to use pointers rather than arrays
+-Added Card and File Structures 
+Things to still do
+-Add Player Structures
+-Pass Structure to functions
+-Return Structure from function
+-Return pointers
+-Binary Files
+-Enumeration
