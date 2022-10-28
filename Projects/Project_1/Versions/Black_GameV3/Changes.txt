@@ -1,0 +1,8 @@
+Changes
+-Moved lots more stuff to structures
+-Deallocate Memory(forgot to do this in previous version)
+-Cstring for player Name to be printed
+
+Things to add
+-Add back the game stats code I deleted from the first version
+-Binary Files Stuff
