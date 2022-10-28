@@ -1,0 +1,8 @@
+Changes
+-Moved all the variables from main into structures
+-Added Game structure
+-Removed Init Function arguments
+
+Things to Add
+-Binary Files
+-Info about game if player wishes to see it
