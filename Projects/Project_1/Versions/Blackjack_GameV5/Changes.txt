@@ -1,0 +1,4 @@
+Changes
+-Added Enumeration
+-Added Reading/Writing to binary files
+-Added back ability for player to see the cards and the suits in the deck
