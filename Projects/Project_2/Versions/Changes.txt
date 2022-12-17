@@ -1,0 +1,7 @@
+V5 Project 1 Original
+V6 Created Part of a card class, added in Vector class, and face class, moved many functions into card class
+V7 Changed the way card values are calculated, created abstract player class and intherited it into player class to be worked on in Version 8 (none of the functions are implemented)
+V8 implemented functions for player class and changed main to use player class rather than structure
+V8 created and implemented file class
+V9 Seperated Game and Stats into different files fixed bug with bet not being paid out correctly when player wins
+V10 Added Exceptions, Deck Class inherited from card, Created and implemented card class, added ability for player to see card values and sorted card values, overloaded + operator for MyVec class to increase the array size by number after +
